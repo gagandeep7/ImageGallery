@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## You can see it live at
 https://imagegallery.surge.sh/
 
+
+![](https://raw.githubusercontent.com/gagandeep7/ImageGallery/master/Screen%20Shot%202020-05-18%20at%2013.14.11-fullpage.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
